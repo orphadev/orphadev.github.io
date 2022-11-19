@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	font-size: 70;
+}
+
+h2{
+	color: blue;
+	font-size: 55;
+}
+
+h4{
+	color: green;
+	font-size: 45;
+}
+
+h5{
+	color: orange;
+	font-size: 30;
+}
+
+h6{
+	color: violet;
+	font-size: 20;
+}
+
+p{
+	color: brown;
+	font-size: 15;
+}
